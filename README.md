@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 👤 I’m Arthur
+- 👤 I’m Arthur César
 - 🌱 I’m currently learning English on Senac SP
 - 🌙 Are you having a good night?
 
