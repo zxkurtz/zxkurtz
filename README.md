@@ -1,4 +1,7 @@
 ## Hi there 👋
+- 👤 I’m Arthur
+- 🌱 I’m currently learning English on Senac SP
+- 🌙 Are you having a good night?
 
 <!--
 **zxkurtz/zxkurtz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
