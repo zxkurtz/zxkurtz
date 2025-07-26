@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning English on Senac SP
 - 🌙 Are you having a good night?
 
+---
+
 ### Programming Languages 🖥️
 <div>
  <img title="NodeJS" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
